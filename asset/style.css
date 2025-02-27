@@ -1,0 +1,25 @@
+/* admin.php */
+.container {
+    margin-top: 20px;
+}
+
+.admin, .home, .pengadaan {
+    margin-bottom: 20px;
+}
+
+.td-max-size {
+    width: 160px;
+}
+
+.td-size {
+    width: 100px;
+}
+
+/* header */
+.custom-navbar {
+    background-color: #a5c3e2;
+}
+
+.nav-item .nav-link {
+    font-weight: 600;
+}
